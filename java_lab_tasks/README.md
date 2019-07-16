@@ -1,0 +1,1 @@
+Java Core git https://git.epam.com/Mikhail_Mitrakhovich/java_core
